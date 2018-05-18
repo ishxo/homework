@@ -1,0 +1,7 @@
+.pHover:hover {
+     background-color: red; 
+}
+
+.lineThrough {
+    text-decoration: line-through;
+}
