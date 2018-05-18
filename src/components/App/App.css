@@ -1,37 +1,7 @@
-.head-section {
-    margin: 0 auto;
-    width: 90%;
-    padding: 45px;
-    background-image: url("https://cdn-images-1.medium.com/max/2000/1*vitRNIHGSAbLJ7dfCXDOdQ.png");
-    text-align: center;
-    color: white;
+.pHover:hover {
+     background-color: red; 
 }
 
-.head-title {
-    font-weight: bold;
-    text-transform: uppercase;
+.lineThrough {
+    text-decoration: line-through;
 }
-
-.head-subtitle-tail {
-    color: darkgreen;
-}
-
-.pin-section {
-    margin-top: 45px;
-}
-
-.footer-section {
-    margin: 0 auto;
-    width: 90%;
-    padding: 45px;
-    background-color:#faebd7;
-    text-align: center;
-    color:blue;
-}
-
-.footer-subtitle-tail {
-    display: block;
-}
-
-
-
