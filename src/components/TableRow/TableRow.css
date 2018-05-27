@@ -1,0 +1,7 @@
+.tRow {
+    border: 2px solid black;
+    text-align: center;
+    width: 100%;
+    background: red;
+    color: white;
+}
